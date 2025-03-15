@@ -1,0 +1,10 @@
+body {
+    background-image: url("/assets/image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
