@@ -19,7 +19,7 @@ This is a marketplace platform for IIIT users to buy and sell items. Users must 
 ### Frontend Setup
 1. Navigate to the frontend folder:
    ```sh
-   cd frontend
+   cd Frontend
    ```
 2. Install dependencies:
    ```sh
@@ -34,7 +34,7 @@ This is a marketplace platform for IIIT users to buy and sell items. Users must 
 ### Backend Setup
 1. Navigate to the backend folder:
    ```sh
-   cd ../backend
+   cd ../Backend
    ```
 2. Start the backend server:
    ```sh
